@@ -1,0 +1,18 @@
+# ninja log v7
+26	497	8143471306437533	CMakeFiles/mygit.dir/src/main.c.obj	42dce95ad26b646b
+37	465	8143471306499709	CMakeFiles/mygit.dir/src/commands/init.c.obj	ebef1291dd290d32
+210	583	8143471308271183	CMakeFiles/mygit.dir/src/util/filesystem.c.obj	869ded1d69d6081b
+1677	1898	8143471322938106	mygit.exe	36e5c518d7c33682
+151	564	8143471307683815	CMakeFiles/mygit.dir/src/util/repository.c.obj	3335990444ef387d
+186	581	8143471308033400	CMakeFiles/mygit.dir/src/util/sha1.c.obj	5add1e88e8791775
+102	1677	8143471307196280	CMakeFiles/mygit.dir/src/commands/status.c.obj	80b7994b79ba9e54
+116	1649	8143471307336999	CMakeFiles/mygit.dir/src/util/index.c.obj	3eb24e2d3b7b8eb5
+132	606	8143471307497351	CMakeFiles/mygit.dir/src/util/object.c.obj	bd75a1abb1576547
+47	1521	8143471306636483	CMakeFiles/mygit.dir/src/commands/add.c.obj	b44c39c01a048f19
+74	1649	8143471306907513	CMakeFiles/mygit.dir/src/commands/commit.c.obj	2a76012ed194bdd6
+87	561	8143471307036119	CMakeFiles/mygit.dir/src/commands/log.c.obj	a752bc76343f5946
+251	607	8143471308680210	CMakeFiles/test_sha1.dir/tests/test_sha1.c.obj	f733f7295fa87ca
+282	595	8143471308982414	CMakeFiles/test_sha1.dir/src/util/sha1.c.obj	a3538fcdf692e22c
+607	825	8143471312246905	test_sha1.exe	6c38f39f7f3ffe74
+59	1626	8143471306754459	CMakeFiles/mygit.dir/src/commands/branch.c.obj	74c7b9a0d8adb0b8
+32	54	8143471305709228	clean	7cad43144eea5c8

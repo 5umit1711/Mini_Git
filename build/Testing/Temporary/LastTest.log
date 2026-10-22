@@ -1,0 +1,33 @@
+Start testing: Oct 22 10:08 India Standard Time
+----------------------------------------------------------
+1/2 Testing: sha1
+1/2 Test: sha1
+Command: "D:/CODE/Mini_Git/build/test_sha1.exe"
+Directory: D:/CODE/Mini_Git/build
+"sha1" start time: Oct 22 10:08 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"sha1" end time: Oct 22 10:08 India Standard Time
+"sha1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: workflow
+2/2 Test: workflow
+Command: "C:/Users/ASUS/AppData/Local/Programs/Python/Python314/python.exe" "D:/CODE/Mini_Git/tests/workflow.py" "D:/CODE/Mini_Git/build/mygit.exe"
+Directory: D:/CODE/Mini_Git/build
+"workflow" start time: Oct 22 10:08 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.97 sec
+----------------------------------------------------------
+Test Passed.
+"workflow" end time: Oct 22 10:08 India Standard Time
+"workflow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 22 10:08 India Standard Time
